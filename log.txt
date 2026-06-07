@@ -1,0 +1,7 @@
+System started successfully.
+Error: Failed to load configuration.
+User login successful.
+Warning: Low disk space.
+ERROR: Could not connect to database.
+Backup completed.
+Error: Invalid input detected.
